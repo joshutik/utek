@@ -1,0 +1,10 @@
+/*........................
+styling for the heropage 
+.........................*/
+
+.sect-1 {
+    background-image: url(./assets/cute-redhead-woman-sweater-showing-looking-laptop-screen-with-pleased-smile-demonstrating.jpg);
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
