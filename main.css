@@ -8,3 +8,21 @@ styling for the heropage
     background-size: cover;
     background-position: center;
 }
+
+body {
+    font-family: "Poppins", sans-serif;
+}
+
+h2 {
+    font-weight: 400;
+    font-style: italic;
+}
+
+.card > img {
+    height: 180px !important;
+    max-height: 180px !important;
+}
+
+.card {
+    height: 100% !important;
+}
